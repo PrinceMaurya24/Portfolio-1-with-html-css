@@ -243,3 +243,6 @@ flex-direction: column;
         grid-template-columns: auto;
     }
 }
+.lastword{
+    background-color: red;
+    }
